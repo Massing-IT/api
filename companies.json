@@ -2,7 +2,7 @@
     {
         "name": "Capgemini",
         "tags": [],
-        "logo": "./companies/capgemini/logo.png",
+        "logo": "https://github.com/Massing-IT/api/res/capgemini/logo.png",
         "desc": "",
         "info": [
             {
@@ -47,7 +47,7 @@
     {
         "name": "MVB",
         "tags": [],
-        "logo": "./res/mvb/logo.jpg",
+        "logo": "https://github.com/Massing-IT/api/res/mvb/logo.jpg",
         "desc": "",
         "info": [
             {
@@ -79,15 +79,15 @@
             }
         ],
         "images": [
-            "./res/mvb/Josefina.jpg",
-            "./res/mvb/Priorn4.jpg",
-            "./res/mvb/Priorn7.jpg"
+            "https://github.com/Massing-IT/api/res/mvb/Josefina.jpg",
+            "https://github.com/Massing-IT/api/res/mvb/Priorn4.jpg",
+            "https://github.com/Massing-IT/api/res/mvb/Priorn7.jpg"
         ]
     },
     {
         "name": "Knowit",
         "tags": [],
-        "logo": "./res/knowit/knowit.png",
+        "logo": "https://github.com/Massing-IT/api/res/knowit/knowit.png",
         "desc": "",
         "info": [
             {
@@ -125,7 +125,7 @@
     {
         "name": "har",
         "tags": [],
-        "logo": "./res/har/logo.jpg",
+        "logo": "https://github.com/Massing-IT/api/res/har/logo.jpg",
         "desc": "",
         "info": [
             {
@@ -173,7 +173,7 @@
     {
         "name": "NCC",
         "tags": [],
-        "logo": "./res/ncc/ncc.jpg",
+        "logo": "https://github.com/Massing-IT/api/res/ncc/ncc.jpg",
         "desc": "",
         "info": [
             {
