@@ -188,24 +188,5 @@
             }
         ],
         "images": []
-    },
-    {
-        "name": "TEST",
-        "tags": [],
-        "logo": "https://massing-it.github.io/api/res/ncc/ncc.jpg",
-        "desc": "",
-        "info": [
-            {
-                "header": "Allmän info om företaget",
-                "paragraphs": [
-                    "På NCC utmanar vi oss själva varje dag för att hitta nya smarta lösningar och att skapa en bättre morgondag. Tillsammans med våra kunder utvecklar vi skolor, vägar, vägar, broar, sjukhus, bostäder och mycket mer över hela norden.",
-                    "NCC är ett av de ledande nordiska bygg- och fastighetutvecklingsföretag med mängder av spännande projekt, bland annat projektet Knutpunkten/Helsingborg C, järnvägsprojektet Lund-Arlöv fyra spår, det nya Vattentornet i Helsingborg och badhuset i Burlöv.",
-                    "Idag är vi ca 15.500 medarbetare som tillsammans jobbar för ett bättre samhälle, men vi behöver bli fler. Våra framtida kollegor finns bland er studenter och därför vill vi gärna träffa er på Mässing.",
-                    "Vi söker bl.a. högskoleingenjörer till vårt traineeprogram KTP och arbetsledande personal till vår produktion.",
-                    "Vi är flera personer på plats som gärna delar med oss om våra erfarenheter av NCC och svarar på eventuella frågor."
-                ]
-            }
-        ],
-        "images": []
     }
 ]
