@@ -33,6 +33,10 @@
             "images": [],
             "links": [
                 {
+                    "text": "Capgemini: Get The Future You Want",
+                    "url": "https://www.youtube.com/watch?v=O60rOsPqkGo&feature=emb_title"
+                },
+                {
                     "text": "JOB OPPORTUNITIES",
                     "url": "https://fair.date-it.se/recruiter/events/stall/4418"
                 },
@@ -65,10 +69,14 @@
                 },
                 {
                     "header": "Vad gör just ert företag unikt",
-                    "paragraphs": []
+                    "paragraphs": [
+                        "MVB erbjuder det bästa av två världar, det lokala bolagets närhet till kunden, projekten och marknaden och det stora bolagets finansiella styrka och trygghet.",
+                        "Hos oss har du riktigt stora möjligheter till karriär och personlig utveckling. Vi är prestigelösa och lösningsfokuserade och har en organisation som är platt. Det resulterar i korta beslutsvägar som uppmuntrar till kreativitet och eget ansvar. Våra chefer och ledare är tillgängliga, engagerade och lyhörda. Avsaknaden av hierarkier ger ett effektivare samarbete med våra beställare och är en stor konkurrensfördel gentemot branschens absolut största företag.",
+                        "Vi är övertygade om att arbetsglädje och gemenskap är nyckeln till framgång. Vi lägger därför stort fokus på att skapa en familjär och inkluderande företagskultur där våra anställda trivs och får möjlighet att utvecklas både i sitt yrke och som personer."
+                    ]
                 },
                 {
-                    "header": "Vad kan ni erbjuda",
+                    "header": "Praktik",
                     "paragraphs": [
                         "Varje år erbjuder vi ett antal praktikplatser, antingen ute på våra byggarbetsplatser eller på något av våra kontor i Munka Ljungby, Helsingborg eller Malmö. Vårt mål med praktiken är att du ska få prova på så många olika moment som möjligt för att ge dig en bra bas inför framtiden. Praktik är en vanlig och meriterande väg till en anställning hos oss.",
                         "För praktik sommaren 2021 ansöker du från 1 mars och senast 30 april till student.syd@mvbab.se",
@@ -174,7 +182,12 @@
                     ]
                 }
             ],
-            "images": []
+            "images": [
+                "https://massing-it.github.io/api/res/har/1.jpg",
+                "https://massing-it.github.io/api/res/har/2.JPG",
+                "https://massing-it.github.io/api/res/har/3.jpg",
+                "https://massing-it.github.io/api/res/har/4.jpg"
+            ]
         },
         {
             "name": "NCC",
@@ -194,11 +207,30 @@
                 }
             ],
             "images": []
+        },
+        {
+            "name": "Mårtensson Consulting",
+            "tags": [],
+            "logo": "https://massing-it.github.io/api/res/martensson/logo.png",
+            "desc": "",
+            "info": [
+                {
+                    "header": "Allmän info om företaget",
+                    "paragraphs": [
+                        "Martensson Consulting är ett expansivt automationsföretag som sedan 1997 har arbetat med projektering och implementering av automations- och IT-lösningar för industrin.",
+                        "Vi har många olika kunder i många olika branscher över hela världen, vårt största segment är livsmedelsindustrin. Huvudkontoret ligger i Kristianstad men vi har hela världen som arbetsplats. Vi har lokala projekt men även en stor del utomlands.",
+                        "Vi är ett företag som brinner för att skapa möjligheter för våra anställda att utvecklas, vi har lång erfarenhet av rekrytering av medarbetare som kommer direkt från sin utbildning. Har du ett driv, en positiv attityd, en vilja att ständigt utvecklas som individ och ingenjör så kommer det att finnas många möjligheter för dig inom Team Martensson.",
+                        "Att bygga lag och laganda är viktigt för oss, inom Team Martensson värnar vi vår gemensamma värdegrund och sätter de mjuka värdena högt som ett komplement till vår tekniska miljö.",
+                        "Vi söker dig som läser Datateknik eller Elektroteknik med Automation. Hoppas du kommer och besöker oss på mässan, så berättar vi mer!"
+                    ]
+                }
+            ],
+            "images": []
         }
     ],
     "footerInfo": {
         "mail": "harald_projektledare.massing@ingsekt.se",
         "address": "UNIVERSITETSPLATSEN 2, 252 25 Helsingborg",
-        "dates" : "2021-02-04"
+        "dates": "2021-02-04"
     }
 }
