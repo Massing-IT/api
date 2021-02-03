@@ -1,0 +1,205 @@
+{
+    "landing": {
+        "introduction": [
+            "MässING 2021 blir den första virtuella mässan som genomförs och är en arbetsmarknadsmässa som riktar sig till de 650st högskoleingenjörsstudenterna på LTH Campus Helsingborg.",
+            "Det är ett utmärkt tillfälle för dig som student att utforska möjligheterna inför arbetslivet efter examen och knyta kontakter inför examensarbeten och liknande. Som student kan du interagera och nätverka med de företag du tycker är intressanta. Du får möjlighet att marknadsföra dig själv och dina ambitioner för framtiden. Förhoppningsvis lyckas du knyta kontakter som är värdefulla för din framtida karriär.",
+            "Mässan är även till för att du som student ska vidga dina vyer och se de möjligheter det finns inom branschen. På mässan kommer det finnas ett brett utbud av ingenjörer med olika arbetsuppgifter, kanske hittar du något nytt som intresserar dig. Genom att prata med de olika företagen kan du få bättre insikt av hur det är att jobba som ingenjör. Vetskapen om hur ditt framtida jobb kan se ut kommer förhoppningsvis att inspirera dig. Mässan skapar inte endast möjligheter för dig efter du tagit examen utan även chans att prata med företagen om praktik, exjobb och sommarjobb. Vi hoppas att du lämnar mässan förväntansfull inför framtiden och exalterad av alla möjligheter yrket som ingenjör erbjuder."
+        ],
+        "contact": {
+            "mail": "harald_projektledare.massing@ingsekt.se",
+            "address": "Rönnowsgatan 10E, 252 25 Helsingborg"
+        }
+    },
+    "companies": [
+        {
+            "name": "Capgemini",
+            "tags": [],
+            "logo": "https://massing-it.github.io/api/res/capgemini/logo.png",
+            "desc": "",
+            "info": [
+                {
+                    "header": "Do we have job opportunities for Graduates?",
+                    "paragraphs": [
+                        "Yes we do! Capgemini’s Ignite Graduate Program is a unique opportunity to be in charge of your own career, building your network, taking on responsibility, and sharing your ideas on how you want to develop within the organization. The Ignite Graduate Program runs for 18 months in parallel with our customer assignments and provides training adapted to your skills as well as your consultant techniques. Our different career paths have customized education plans, both technical and consultancy wise, comprising teacher-led trainings, certifications, self-study from a wide range of internal educational materials and other events that will boost your role as a Junior Consultant at Capgemini. Apply to Ignite program : www.capgemini.com/se-en/jobs/ignite-graduate-program-goteborg More information about Ignite: https: //www.capgemini.com/se-en/careers/ignite-graduate-program Remember to apply before November 29th."
+                    ]
+                },
+                {
+                    "header": "Why should you work at Capgemini?",
+                    "paragraphs": [
+                        "As a Capgemini employee, you are offered exciting career opportunities locally and internationally, and fantastic networks of expertise. With over 2000 colleagues in Sweden, over 3500 in Scandinavia, and 270 000 globally, you are part of a sharp, technology and business focused community, including challenging learning opportunities of more than 500 courses and certifications. We can offer you a variety of innovative projects with well-known clients and world-leading partners. We also have an inclusive corporate culture where diversity is our most important guiding principle. We are continuously engaged in initiatives that promote diversity and women in tech; we run LGBTQ+ networks and aim for inclusion in all types of staff activities – from sports club to art association. Find out more about Capgemini as an employer: https://www.capgemini.com/se-en/careers"
+                    ]
+                },
+                {
+                    "header": "How do our own employees describe us?",
+                    "paragraphs": [
+                        "Some of the benefits with working at Capgemini that our employees sees are that we have a friendly and flexible workplace culture, supportive managers and freedom of speech. We also have strong values and diversity focus (we have several times been named as one of the world's most ethical Companies!). Not the least, we also offer good work-life balance. For further insights of the life at Capgemini read the story of one of our colleagues: https://www.capgemini.com/se-en/testimonials/summia-al-mufti-software-engineer"
+                    ]
+                }
+            ],
+            "images": [],
+            "links": [
+                {
+                    "text": "JOB OPPORTUNITIES",
+                    "url": "https://fair.date-it.se/recruiter/events/stall/4418"
+                },
+                {
+                    "text": "IGNITE GRADUATE PROGRAM",
+                    "url": "https://fair.date-it.se/recruiter/events/stall/4418"
+                },
+                {
+                    "text": "LIFE AT CAPGEMINI",
+                    "url": "https://fair.date-it.se/recruiter/events/stall/4418"
+                },
+                {
+                    "text": "OTHER QUERIES",
+                    "url": "https://fair.date-it.se/recruiter/events/stall/4418"
+                }
+            ]
+        },
+        {
+            "name": "MVB",
+            "tags": [],
+            "logo": "https://massing-it.github.io/api/res/mvb/logo.jpg",
+            "desc": "",
+            "info": [
+                {
+                    "header": "Allmän info om företaget",
+                    "paragraphs": [
+                        "MVB är ett av Sveriges största privatägda byggföretag med verksamhet inom bygg- och markentreprenader. Vi består av ca 500 medarbetare fördelade i tre regionala bolag. I Skåne och södra Halland är vi MVB Syd med kontor i Munka Ljungby, Helsingborg och Malmö.",
+                        "MVB bygger såväl nytt som renoverar till exempel skolor, idrottsanläggningar, bostäder, kontor, vårdinrättningar och industrilokaler. Exempel på projekt som vi i syd har byggt är Helsingborg Arena, Rättspsykiatriskt Centrum i Trelleborg och Glänningeskolan i Laholm. Just nu renoverar vi Ängelholms stadsbibliotek, bygger nya skolor i Hässleholm och Höör, kontorshus i Malmö och bostäder i Kävlinge. För att nämna några. Mer om våra projekt kan du läsa om på https://mvbab.se/projekt/"
+                    ]
+                },
+                {
+                    "header": "Vad gör just ert företag unikt",
+                    "paragraphs": []
+                },
+                {
+                    "header": "Vad kan ni erbjuda",
+                    "paragraphs": [
+                        "Varje år erbjuder vi ett antal praktikplatser, antingen ute på våra byggarbetsplatser eller på något av våra kontor i Munka Ljungby, Helsingborg eller Malmö. Vårt mål med praktiken är att du ska få prova på så många olika moment som möjligt för att ge dig en bra bas inför framtiden. Praktik är en vanlig och meriterande väg till en anställning hos oss.",
+                        "För praktik sommaren 2021 ansöker du från 1 mars och senast 30 april till student.syd@mvbab.se",
+                        "Ansökan ska innehålla ett personligt brev samt CV. På grund av GDPR ber vi dig utesluta dina fyra sista siffror i ditt personnummer i såväl CV som i det personliga brevet."
+                    ]
+                },
+                {
+                    "header": "Examensarbete",
+                    "paragraphs": [
+                        "Har du ett ämne eller en idé som du vill utveckla är du välkommen att skriva ditt examensarbete hos oss. Vi kan bistå med en handledare på företaget som hjälper dig att utveckla tankarna bakom ämnet och som fungerar som ett bollplank under examensarbetets fortskridande.",
+                        "Du skickar din ansökan till student.syd@mvbab.se – sätt ”Examensarbete” som ämnesrubrik när du skickar e-posten.",
+                        "Din ansökan bör innehålla en kort beskrivning av dig som person, vilken utbildning du läser, planerad period samt vad du tänkt skriva om, en frågeställning eller en idé."
+                    ]
+                }
+            ],
+            "images": [
+                "https://massing-it.github.io/api/res/mvb/Josefina.jpg",
+                "https://massing-it.github.io/api/res/mvb/Priorn4.jpg",
+                "https://massing-it.github.io/api/res/mvb/Priorn7.jpg"
+            ]
+        },
+        {
+            "name": "Knowit",
+            "tags": [],
+            "logo": "https://massing-it.github.io/api/res/knowit/knowit.png",
+            "desc": "",
+            "info": [
+                {
+                    "header": "Allmän info om företaget",
+                    "paragraphs": [
+                        "Knowit är ett konsultbolag som skapar unika kundvärden genom att erbjuda digitala och gränsöverskridande lösningar från tre affärsområden, Experience, Insight och Solutions. Knowit har idag cirka 2 500 medarbetare i fem länder: Sverige, Norge, Danmark, Finland och Tyskland. Knowit AB (publ) är noterat på den Nordiska Börsen i Stockholm. Affärsområdet Knowit Experience har beskrivits som Nordens ledande kommunikations- och teknikbyrå med verksamhet i fyra länder.",
+                        "Genom riktad digital närvaro och berikande användarupplevelser via webb, mobil och sociala medier hjälper vi företag, organisationer och andra verksamheter att nå sina affärskritiska mål. Knowit Insight arbetar med olika former av managementkonsulting och stöttar kunderna både taktiskt och strategiskt. Våra specialister tar fram idéer, agerar rådgivare och utvecklar skräddarsydda lösningar, allt baserat på djup förståelse för kundens affär och verksamhet. Knowit Solutions hjälper företag och organisationer att utveckla sina verksamheter genom olika it-lösningar. Vi erbjuder spetskompetens i alla delar av systemutvecklingsprocessen – från idé, arkitektur och projektstyrning till systemutveckling, implementering, test och säkerhet."
+                    ]
+                },
+                {
+                    "header": "Vad gör just ert företag unikt?",
+                    "paragraphs": [
+                        "Vårt medarbetarlöfte – Grow. Create a Difference. Together. – visar vilken sorts företag vi vill vara. Knowit uppmuntrar innovation och personligt engagemang. Varje medarbetare har ett stort eget beslutsmandat och får möjlighet att växa både i sin yrkesroll och som människa. Vår vision är att skapa ett hållbart och mänskligt samhälle genom digitalisering och innovation.",
+                        "Det är förmågan att kombinera kompetenser inom design och kommunikation, managementkonsulting samt it, som skiljer oss från andra konsultbolag. Vår kultur präglas av öppenhet, förståelse för kundens affär, hög specialistkompetens och en vilja att ständigt utvecklas."
+                    ]
+                },
+                {
+                    "header": "Vad söker ni bland studenterna?",
+                    "paragraphs": [
+                        "Vi letar efter studenter som vill jobba inom IT och digitalisering. Vi letar efter dig som drivs av innovation, jobba med den senaste tekniken och vara med och skapa framtidens digitala lösningar."
+                    ]
+                },
+                {
+                    "header": "Vad kan ni erbjuda?",
+                    "paragraphs": [
+                        "Vi både stöttar, uppmuntrar och lär av varandra dagligen. Vi är ett bolag som alltid strävar efter att bli bättre, och det blir vi genom att värdesätta initiativ och ge varje medarbetare chans till att växa hos oss. Något som är lika viktigt för oss är att du som medarbetare har möjlighet att kombinera arbete och fritid.",
+                        "Vi sitter på nyrenoverade lokaler på Stortorget. Just nu jobbar de flesta av oss hemifrån, men med nära kontakt med både din chef och dina kollegor. Vi ser verkligen fram emot när vi kan jobba som vanligt på kontoret igen, vi sitter i några av de (förmodligen) finaste lokalerna i Malmö och har en fantastisk takterass med utsikt över hela staden och sundet.",
+                        "Vi erbjuder dig en snabbrörlig, rolig och inspirerande arbetsplats där vi löser svåra problem tillsammans genom att vara ett oslagbart team. Hos oss erbjuds du en trygg anställning med generösa hälso- och friskvårdsbidrag samt pensions- och försäkringsförmåner. Vi jobbar hårt med jämställdhet, miljö och hållbarhet.",
+                        "Vi är stolta och glada över att både vara klimatneutrala och det mest jämställda börsnoterade bolaget och rankas bäst av alla it-konsultbolagen inom kategori it när Universum sammanställer en lista över vilka företag Young Professionals i Norden helst jobbar på."
+                    ]
+                }
+            ],
+            "images": []
+        },
+        {
+            "name": "har",
+            "tags": [],
+            "logo": "https://massing-it.github.io/api/res/har/logo.jpg",
+            "desc": "",
+            "info": [
+                {
+                    "header": "Allmän info om företaget",
+                    "paragraphs": [
+                        "Här!:s mål är att förändra branschen.",
+                        "Att genom vår integrerade arbetsprocess med konstruktörer och arkitekter se till att visioner förverkligas. Att höga ambitioner i samhällsbyggandet inte går om intet utan blir verklighet i form av vackra, långsiktigt hållbara byggnader.",
+                        "Här! Fokuserar inom fem områden:",
+                        "• Tidiga skeden",
+                        "• Bostäder",
+                        "• Skolor",
+                        "• Kontor & kommersiella lokaler",
+                        "• Samhällsservice",
+                        "• Offentliga byggnader",
+                        "Här! står för närvaro i det vi gör och utgångspunkt i platsen. Vi arbetar med hållbarhet där vi gör störst skillnad - i utformandet av stomme och klimatskal.",
+                        "Ständig utveckling och integrerat arbete präglar vårt BIM-arbete."
+                    ]
+                },
+                {
+                    "header": "Vad gör just ert företag unikt?",
+                    "paragraphs": [
+                        "Istället för att ha vattentäta skott mellan arkitekter och konstruktörer, ser vi till att mixa kompetenserna - en enkel filosofi som hjälper oss att nå de smartaste lösningarna. För oss har ingen arkitektur uppstått förrän den är byggd – och byggd som den var tänkt. För att uppnå detta jobbar vi med byggteknik och gestaltning integrerat i vårt arbete.",
+                        "Vi tillhör inte branschens dinosaurier, men är tillräckligt stora för att ta tunga uppdrag. Spännande uppdrag men inte större än att varje medarbetare är en viktig kugge. Ofta jobbar vi från tidigaste skiss tills det står ett färdigt hus på platsen.",
+                        "Vi är ett tajt gäng där du som medarbetare får stor frihet och stort inflytande. Företagets ägare och ledning är alla verksamma i företaget och uppdragen. Du har nära till både kunskap, erfarenhet och beslut.",
+                        "Vårt kontor ligger mitt i centrala Malmö, och vi arbetar främst med uppdrag i sydvästra Sverige. Vår lokala förankring ger oss möjlighet att studera de platser vi ritar på, besöka våra byggen, och inte minst se de färdiga resultaten.",
+                        "Vi är Här! Var är du?"
+                    ]
+                },
+                {
+                    "header": "Vad söker ni bland studenterna?",
+                    "paragraphs": [
+                        "Vi söker konstruktörer, byggnadsingenjörer, arkitekter och studenter med BIM-kompetens.",
+                        "Personer som vill: vara med och utveckla ett nytt sorts företag, ta större ansvar, utmana sig själva och bidra till ett hållbarare samhällsbygge."
+                    ]
+                },
+                {
+                    "header": "Vad kan ni erbjuda?",
+                    "paragraphs": [
+                        "Vi ser fram emot att erbjuda praktikplatser till studenterna och vi är alltid intresserade av att diskutera samarbeten i form av examensarbeten eller andra idéer."
+                    ]
+                }
+            ],
+            "images": []
+        },
+        {
+            "name": "NCC",
+            "tags": [],
+            "logo": "https://massing-it.github.io/api/res/ncc/ncc.jpg",
+            "desc": "",
+            "info": [
+                {
+                    "header": "Allmän info om företaget",
+                    "paragraphs": [
+                        "På NCC utmanar vi oss själva varje dag för att hitta nya smarta lösningar och att skapa en bättre morgondag. Tillsammans med våra kunder utvecklar vi skolor, vägar, vägar, broar, sjukhus, bostäder och mycket mer över hela norden.",
+                        "NCC är ett av de ledande nordiska bygg- och fastighetutvecklingsföretag med mängder av spännande projekt, bland annat projektet Knutpunkten/Helsingborg C, järnvägsprojektet Lund-Arlöv fyra spår, det nya Vattentornet i Helsingborg och badhuset i Burlöv.",
+                        "Idag är vi ca 15.500 medarbetare som tillsammans jobbar för ett bättre samhälle, men vi behöver bli fler. Våra framtida kollegor finns bland er studenter och därför vill vi gärna träffa er på Mässing.",
+                        "Vi söker bl.a. högskoleingenjörer till vårt traineeprogram KTP och arbetsledande personal till vår produktion.",
+                        "Vi är flera personer på plats som gärna delar med oss om våra erfarenheter av NCC och svarar på eventuella frågor."
+                    ]
+                }
+            ],
+            "images": []
+        }
+    ]
+}
