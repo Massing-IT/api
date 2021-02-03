@@ -198,12 +198,7 @@
     ],
     "footerInfo": {
         "mail": "harald_projektledare.massing@ingsekt.se",
-        "address": [
-            "Rönnowsgatan 10E",
-            "252 25 Helsingborg"
-        ],
-        "dates" : [
-            "2021-02-04"
-        ]
+        "address": "Rönnowsgatan 10E, 252 25 Helsingborg",
+        "dates" : "2021-02-04"
     }
 }
