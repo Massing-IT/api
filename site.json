@@ -1,15 +1,9 @@
 {
-    "landing": {
-        "introduction": [
-            "MässING 2021 blir den första virtuella mässan som genomförs och är en arbetsmarknadsmässa som riktar sig till de 650st högskoleingenjörsstudenterna på LTH Campus Helsingborg.",
-            "Det är ett utmärkt tillfälle för dig som student att utforska möjligheterna inför arbetslivet efter examen och knyta kontakter inför examensarbeten och liknande. Som student kan du interagera och nätverka med de företag du tycker är intressanta. Du får möjlighet att marknadsföra dig själv och dina ambitioner för framtiden. Förhoppningsvis lyckas du knyta kontakter som är värdefulla för din framtida karriär.",
-            "Mässan är även till för att du som student ska vidga dina vyer och se de möjligheter det finns inom branschen. På mässan kommer det finnas ett brett utbud av ingenjörer med olika arbetsuppgifter, kanske hittar du något nytt som intresserar dig. Genom att prata med de olika företagen kan du få bättre insikt av hur det är att jobba som ingenjör. Vetskapen om hur ditt framtida jobb kan se ut kommer förhoppningsvis att inspirera dig. Mässan skapar inte endast möjligheter för dig efter du tagit examen utan även chans att prata med företagen om praktik, exjobb och sommarjobb. Vi hoppas att du lämnar mässan förväntansfull inför framtiden och exalterad av alla möjligheter yrket som ingenjör erbjuder."
-        ],
-        "contact": {
-            "mail": "harald_projektledare.massing@ingsekt.se",
-            "address": "Rönnowsgatan 10E, 252 25 Helsingborg"
-        }
-    },
+    "landing": [
+        "MässING 2021 blir den första virtuella mässan som genomförs och är en arbetsmarknadsmässa som riktar sig till de 650st högskoleingenjörsstudenterna på LTH Campus Helsingborg.",
+        "Det är ett utmärkt tillfälle för dig som student att utforska möjligheterna inför arbetslivet efter examen och knyta kontakter inför examensarbeten och liknande. Som student kan du interagera och nätverka med de företag du tycker är intressanta. Du får möjlighet att marknadsföra dig själv och dina ambitioner för framtiden. Förhoppningsvis lyckas du knyta kontakter som är värdefulla för din framtida karriär.",
+        "Mässan är även till för att du som student ska vidga dina vyer och se de möjligheter det finns inom branschen. På mässan kommer det finnas ett brett utbud av ingenjörer med olika arbetsuppgifter, kanske hittar du något nytt som intresserar dig. Genom att prata med de olika företagen kan du få bättre insikt av hur det är att jobba som ingenjör. Vetskapen om hur ditt framtida jobb kan se ut kommer förhoppningsvis att inspirera dig. Mässan skapar inte endast möjligheter för dig efter du tagit examen utan även chans att prata med företagen om praktik, exjobb och sommarjobb. Vi hoppas att du lämnar mässan förväntansfull inför framtiden och exalterad av alla möjligheter yrket som ingenjör erbjuder."
+    ],
     "companies": [
         {
             "name": "Capgemini",
@@ -201,5 +195,9 @@
             ],
             "images": []
         }
-    ]
+    ],
+    "contact": {
+        "mail": "harald_projektledare.massing@ingsekt.se",
+        "address": "Rönnowsgatan 10E, 252 25 Helsingborg"
+    }
 }
